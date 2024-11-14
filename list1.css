@@ -1,0 +1,523 @@
+.navbar-nav{
+    margin-left: 30%;
+    margin-top: 1%;
+    object-fit: cover;
+}
+.blocky{
+    justify-content: center;
+    object-fit: cover;
+}
+.logo{
+    width: 8%;
+    object-fit: cover;
+}
+.telephone{
+    object-fit: cover;
+    margin-left: 60%;
+    margin-top: -5%;
+    width: 1.3%;
+}
+.table{
+    margin-left: 70%;
+    margin-top: -8%;
+    font-size: 100%;
+    object-fit: cover;
+}
+
+.blocky2{
+    justify-content: center;
+    object-fit: cover;
+}
+.magaz{
+    width: 7%;
+    object-fit: cover;
+    margin-left: 82%;
+    margin-top: -9%;
+}
+.menu{
+    margin-left: -80%;
+    margin-top: 1%;
+    object-fit: cover;
+    width: 80%;
+}
+
+.blocly3{
+    justify-content: center;
+    object-fit: cover;
+}
+.ban{
+    width: 70%;
+    margin-top: 2%;
+    margin-left: 14%;
+}
+.btnn{
+    width: 10%;
+    margin-top: -5%;
+    margin-left: 20%;
+}
+.gridd{
+    margin-top: 5%;
+    justify-content: center;
+    object-fit: cover;
+    width: 70%;
+    margin-left: 14%;
+}
+.table1{
+    font-weight: 400;
+    font-size: 170%;
+    object-fit: cover;
+    margin-left: 18%;
+    margin-top: 8%;
+}
+.table2{
+    font-weight: 400;
+    font-size: 170%;
+    object-fit: cover;
+    margin-left: 31%;
+    margin-top: -2.8%;
+    color: gray;
+}
+
+.d-block{
+    width: 25vw;
+    object-fit: cover;
+    margin-top: 2%;
+    margin-left: 40%;
+}
+.table3{
+    font-weight: 400;
+    font-size: 170%;
+    object-fit: cover;
+    margin-left: 18%;
+    margin-top: 8%;
+}
+
+.blocky4{
+    justify-content: center;
+    object-fit: cover;
+    border: 1px solid #F5F9FA;
+    background-color: #F5F9FA;
+    padding: 10%;
+    object-fit: cover;
+}
+
+.d-blocky{
+    width: 25vw;
+    object-fit: cover;
+    margin-top: 2%;
+    margin-left: 40%;
+}
+
+.table4{
+    font-weight: 400;
+    font-size: 170%;
+    object-fit: cover;
+    margin-left: 14%;
+    margin-top: 8%;
+}
+
+.sale{
+    margin-top: 5%;
+    justify-content: center;
+    object-fit: cover;
+    width: 90%;
+    margin-left: 14%;
+}
+
+.table5{
+    font-weight: 400;
+    font-size: 170%;
+    object-fit: cover;
+    margin-left: 14%;
+    margin-top: 8%;
+}
+
+.nav{
+    margin-left: 14%;
+    margin-top: 2%;
+    object-fit: cover;
+}
+
+.pizza{
+    width: 70%;
+    margin-top: 5%;
+    justify-content: center;
+    object-fit: cover;
+}
+
+.table6{
+    font-weight: 400;
+    font-size: 170%;
+    object-fit: cover;
+    margin-left: 14%;
+    margin-top: 8%;
+}
+
+p{
+    font-weight: 200;
+    font-size: 50%;
+    object-fit: cover;
+    margin-left: 0.2%;
+    margin-top: 3%;
+    color: gray;
+}
+
+.sushi1{
+    width: 20%;
+    justify-content: center;
+    object-fit: cover;
+    margin-left: 79%;
+    margin-top: -24%;
+}
+
+.sushi2{
+    width: 25%;
+    justify-content: center;
+    object-fit: cover;
+    margin-left: 58%;
+    margin-top: -30%;
+}
+
+.table8{
+    font-weight: 400;
+    font-size: 170%;
+    object-fit: cover;
+    margin-left: 14%;
+    margin-top: 8%;
+}
+
+.table9{
+    font-weight: 400;
+    font-size: 170%;
+    object-fit: cover;
+    margin-left: 14%;
+    margin-top: 0.1%;
+    color: orange;
+}
+
+.table10{
+    margin-left: 50%;
+    object-fit: cover;
+    margin-top: -1%;
+}
+
+.f1{
+    width: 88%;
+    margin-top: 5%;
+    margin-left: 14%;
+    justify-content: center;
+    object-fit: cover;
+}
+
+.f2{
+    width: 58%;
+    margin-top: -26%;
+    margin-left: -33%;
+    justify-content: center;
+    object-fit: cover;
+}
+.btn{
+    font-size: 100%;
+    margin-left: 60%;
+    margin-top: -13%;
+}
+@media (max-width: 375px){
+    .table{
+        margin-left: 71%;
+        margin-top: -8%;
+        font-size: 20%;
+        object-fit: cover;
+    }
+    .magaz{
+        width: 7%;
+        object-fit: cover;
+        margin-left: 82%;
+        margin-top: -16%;
+    }
+    .table1{
+        font-weight: 400;
+        font-size: 50%;
+        object-fit: cover;
+        margin-left: 18%;
+        margin-top: 8%;
+    }
+    .table2{
+        font-weight: 400;
+        font-size: 50%;
+        object-fit: cover;
+        margin-left: 33%;
+        margin-top: -3%;
+        color: gray;
+    }
+    .table3{
+        font-weight: 400;
+        font-size: 50%;
+        object-fit: cover;
+        margin-left: 18%;
+        margin-top: 8%;
+    }
+    .table4{
+        font-weight: 400;
+        font-size: 50%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    .table5{
+        font-weight: 400;
+        font-size: 50%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    .nav{
+        margin-left: 14%;
+        margin-top: 2%;
+        object-fit: cover;
+        font-size: 30%;
+    }
+    .table6{
+        font-weight: 400;
+        font-size: 50%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    
+    p{
+        font-weight: 200;
+        font-size: 50%;
+        object-fit: cover;
+        margin-left: 0.2%;
+        margin-top: 3%;
+        color: gray;
+    }
+    .table8{
+        font-weight: 400;
+        font-size: 50%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    
+    .table9{
+        font-weight: 400;
+        font-size: 50%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 0.1%;
+        color: orange;
+    }
+    
+    .table10{
+        margin-left: 25%;
+        object-fit: cover;
+        margin-top: -1%;
+        font-size: 100%;
+    }
+    .btn{
+        font-size: 40%;
+        margin-left: 60%;
+        margin-top: -13%;
+    }
+}
+@media (max-width: 768px){
+    .table{
+        margin-left: 71%;
+        margin-top: -8%;
+        font-size: 40%;
+        object-fit: cover;
+    }
+    .magaz{
+        width: 7%;
+        object-fit: cover;
+        margin-left: 82%;
+        margin-top: -10%;
+    }
+    .table1{
+        font-weight: 400;
+        font-size: 80%;
+        object-fit: cover;
+        margin-left: 18%;
+        margin-top: 8%;
+    }
+    .table2{
+        font-weight: 400;
+        font-size: 80%;
+        object-fit: cover;
+        margin-left: 30%;
+        margin-top: -2.4%;
+        color: gray;
+    }
+    .table3{
+        font-weight: 400;
+        font-size: 80%;
+        object-fit: cover;
+        margin-left: 18%;
+        margin-top: 8%;
+    }
+    .table4{
+        font-weight: 400;
+        font-size: 80%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    .table5{
+        font-weight: 400;
+        font-size: 80%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    .nav{
+        margin-left: 14%;
+        margin-top: 2%;
+        object-fit: cover;
+        font-size: 60%;
+    }
+    .table6{
+        font-weight: 400;
+        font-size: 80%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    
+    p{
+        font-weight: 200;
+        font-size: 80%;
+        object-fit: cover;
+        margin-left: 0.2%;
+        margin-top: 3%;
+        color: gray;
+    }
+    .table8{
+        font-weight: 400;
+        font-size: 80%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    
+    .table9{
+        font-weight: 400;
+        font-size: 80%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 0.1%;
+        color: orange;
+    }
+    
+    .table10{
+        margin-left: 25%;
+        object-fit: cover;
+        margin-top: -1%;
+        font-size: 80%;
+    }
+    .btn{
+        font-size: 60%;
+        margin-left: 60%;
+        margin-top: -13%;
+    }
+}
+@media (max-width: 1024px){
+    .table{
+        margin-left: 71%;
+        margin-top: -8%;
+        font-size: 60%;
+        object-fit: cover;
+    }
+    .magaz{
+        width: 7%;
+        object-fit: cover;
+        margin-left: 82%;
+        margin-top: -10%;
+    }
+    .table1{
+        font-weight: 400;
+        font-size: 120%;
+        object-fit: cover;
+        margin-left: 18%;
+        margin-top: 8%;
+    }
+    .table2{
+        font-weight: 400;
+        font-size: 120%;
+        object-fit: cover;
+        margin-left: 30%;
+        margin-top: -2.7%;
+        color: gray;
+    }
+    .table3{
+        font-weight: 400;
+        font-size: 120%;
+        object-fit: cover;
+        margin-left: 18%;
+        margin-top: 8%;
+    }
+    .table4{
+        font-weight: 400;
+        font-size: 120%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    .table5{
+        font-weight: 400;
+        font-size: 120%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    .nav{
+        margin-left: 14%;
+        margin-top: 2%;
+        object-fit: cover;
+        font-size: 80%;
+    }
+    .table6{
+        font-weight: 400;
+        font-size: 120%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    
+    p{
+        font-weight: 200;
+        font-size: 80%;
+        object-fit: cover;
+        margin-left: 0.2%;
+        margin-top: 3%;
+        color: gray;
+    }
+    .table8{
+        font-weight: 400;
+        font-size: 120%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    
+    .table9{
+        font-weight: 400;
+        font-size: 120%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 0.1%;
+        color: orange;
+    }
+    
+    .table10{
+        margin-left: 25%;
+        object-fit: cover;
+        margin-top: -1%;
+        font-size: 80%;
+    }
+    .btn{
+        font-size: 120%;
+        margin-left: 60%;
+        margin-top: -13%;
+    }
+}

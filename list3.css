@@ -1,0 +1,131 @@
+.navbar-nav{
+    margin-left: 30%;
+    margin-top: 1%;
+    object-fit: cover;
+}
+.logo{
+    width: 8%;
+}
+.table{
+    margin-top: 3%;
+    font-weight: 200;
+    object-fit: cover;
+    font-size: 4vb;
+}
+.f1{
+    width: 88%;
+    margin-top: 5%;
+    margin-left: 14%;
+    justify-content: center;
+    object-fit: cover;
+}
+
+.f2{
+    width: 58%;
+    margin-top: -26%;
+    margin-left: -33%;
+    justify-content: center;
+    object-fit: cover;
+}
+.table1{
+    font-weight: 400;
+    font-size: 170%;
+    object-fit: cover;
+    margin-left: 14%;
+    margin-top: 8%;
+}
+
+p{
+    font-weight: 200;
+    font-size: 50%;
+    object-fit: cover;
+    margin-left: 0.2%;
+    margin-top: 6%;
+    color: gray;
+}
+
+.sushi1{
+    width: 20%;
+    justify-content: center;
+    object-fit: cover;
+    margin-left: 79%;
+    margin-top: -24%;
+}
+
+.sushi2{
+    width: 25%;
+    justify-content: center;
+    object-fit: cover;
+    margin-left: 58%;
+    margin-top: -30%;
+}
+@media (max-width: 375px){
+    .table1{
+        font-weight: 400;
+        font-size: 120%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    
+    p{
+        font-weight: 200;
+        font-size: 20%;
+        object-fit: cover;
+        margin-left: 0.2%;
+        margin-top: 6%;
+        color: gray;
+    }
+    .table{
+        margin-top: 3%;
+        font-weight: 200;
+        object-fit: cover;
+        font-size: 1vb;
+    }
+    .sushi1{
+        width: 20%;
+        justify-content: center;
+        object-fit: cover;
+        margin-left: 74%;
+        margin-top: -24%;
+    }
+    
+    .sushi2{
+        width: 25%;
+        justify-content: center;
+        object-fit: cover;
+        margin-left: 50%;
+        margin-top: -40%;
+    }
+}
+@media (max-width: 768px){
+    .table{
+        margin-top: 3%;
+        font-weight: 200;
+        font-size: 40%;
+    }
+    .table1{
+        font-weight: 400;
+        font-size: 120%;
+        object-fit: cover;
+        margin-left: 14%;
+        margin-top: 8%;
+    }
+    
+    p{
+        font-weight: 200;
+        font-size: 40%;
+        object-fit: cover;
+        margin-left: 0.2%;
+        margin-top: 6%;
+        color: gray;
+    }
+}
+@media (max-width: 1024px){
+    .table{
+        margin-top: 3%;
+        font-weight: 200;
+        object-fit: cover;
+        font-size: 3vb;
+    }
+}

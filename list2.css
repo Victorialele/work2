@@ -1,0 +1,132 @@
+.navbar-nav{
+    margin-left: 30%;
+    margin-top: 1%;
+    object-fit: cover;
+}
+.logo{
+    width: 10%;
+}
+.block{
+    object-fit: cover;
+}
+.table{
+    margin-left: 20%;
+    font-size: 7vb;
+    object-fit: cover;
+    font-weight: 400;
+    margin-top: -2%;
+}
+.row{
+    border: 7px;
+    padding: 100px;
+    margin-top: -5%;
+    width: 100%;
+}
+.block2{
+    border: 1px solid lightgray;
+    border-color: lightgray;
+    background-color: lightgray;
+    padding: 5%;
+    object-fit: cover;
+}
+.table2{
+    margin-left: 17%;
+    font-size: 7vb;
+    object-fit: cover;
+    font-weight: 400;
+    margin-top: -1%;
+}
+.form-check{
+    margin-left: 9%;
+    margin-top: 2%;
+}
+.map{
+    width: 100%;
+    justify-content: center;
+    object-fit: cover;
+}
+.table3{
+    margin-left: 17%;
+    font-size: 7vb;
+    object-fit: cover;
+    font-weight: 400;
+    margin-top: 2%;
+}
+.table4{
+    margin-left: 9%;
+    font-size: 4vb;
+    object-fit: cover;
+    font-weight: 400;
+    margin-top: 2%;
+}
+.form-floating{
+    padding: 1%;
+    margin-left: -1%;
+}
+.block4{
+    border: 1px solid lightgray;
+    border-color: lightgray;
+    background-color: lightgray;
+    padding: 5%;
+    object-fit: cover;
+}
+.table5{
+    margin-left: 17%;
+    font-size: 7vb;
+    object-fit: cover;
+    font-weight: 400;
+    margin-top: 2%;
+}
+.block5{
+    border: 1px solid lightgray;
+    border-color: lightgray;
+    background-color: lightgray;
+    padding: 5%;
+    object-fit: cover;
+}
+.table6{
+    margin-left: 8%;
+    font-size: 4vb;
+    object-fit: cover;
+    font-weight: 400;
+    margin-top: -17%;
+}
+.table7{
+    margin-left: 8%;
+    font-size: 4vb;
+    object-fit: cover;
+    font-weight: 400;
+    margin-top: 1%;
+}
+.table8{
+    margin-left: 7%;
+    font-size: 4vb;
+    object-fit: cover;
+    font-weight: 400;
+    margin-top: 6%;
+    border: 1px dashed;
+    padding: 2%;
+    width: 40%;
+}
+.table9{
+    margin-left: 17%;
+    font-size: 5vb;
+    object-fit: cover;
+    font-weight: 200;
+    margin-top: 2%;
+}
+@media (max-width: 375px){
+    .table{
+        margin-left: 15%;
+        font-size: 4vb;
+        object-fit: cover;
+        font-weight: 400;
+        margin-top: -2%;
+    }
+    .row{
+        border: 7px;
+        padding: 100px;
+        margin-top: -5%;
+        width: 100%;
+    }
+}
